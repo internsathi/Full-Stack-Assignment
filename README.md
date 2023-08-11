@@ -11,7 +11,7 @@ Time Duration:
 
 ## Backend (Django):
 
-Create a Django project and set up a virtual environment.
+-- Create a Django project and set up a virtual environment.
 Design a model for tasks with the following fields: title, description, due_date, completed.
 Implement RESTful API endpoints for CRUD operations on tasks.
 Use appropriate serializers to handle data serialization and deserialization.
