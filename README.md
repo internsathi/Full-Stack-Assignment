@@ -46,6 +46,9 @@ Upon completion, please provide the following:
 
 - A GitHub repository with the complete source code.
 - Instructions on how to set up and run the application locally.
+- Once you have completed the assignment, share the repository URL with us via the [submission form](https://forms.gle/yBpTt54T5JXuobN27).
+- Join this discord server to get an update: [Join Here ](https://discord.gg/5qbGZP7V8g)
+- Submission Deadline: Task Submission: 2023/08/15 1:00 PM
 
 ## Evaluation:
 
